@@ -1,0 +1,30 @@
+{
+  "BACKGROUND_COLOR": "#fff",
+  "SITE_NAME": "Lesbertarian",
+  "SITE_URL": "https://lesbertarian.com",
+  "ITUNES_LINK": "https://podcasts.apple.com/us/podcast/lesbertarian/id1483661651",
+  "PATREON_LINK": "",
+  "FACEBOOK_LINK": "https://www.facebook.com/Lesbertarian",
+  "TWITTER_LINK": "https://twitter.com/lesbertarian",
+  "META_DESCRIPTION": "This is a show for the ones that the system has never worked for, for the ones who ask questions and don't take their cues from the status quo, for the ones who know that the most important colors of the rainbow are yellow and black. This is a show where we tear apart the political binary and replace it with reason and non-aggression. This is Lesbertarian.",
+  "META_IMAGE": "lesbertarian-2000.jpg",
+  "META_IMAGE_WIDTH": "2000",
+  "META_IMAGE_HEIGHT": "2000",
+  "FB_APP_ID": "",
+  "MANAGING_EDITOR": "ryan@mlganetwork.com (Ryan Burgett)",
+  "WEBMASTER": "ryan@mlganetwork.com (Ryan Burgett)",
+  "COPYRIGHT": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License - http://creativecommons.org/licenses/by-nc/4.0/",
+  "LANGUAGE": "en",
+  "CATEGORIES": [
+    "News Commentary",
+    "Philosophy"
+  ],
+  "AUTHOR": "MLGA Network",
+  "EMAIL": "ryan@mlganetwork.com",
+  "ITUNES_CATEGORY": [
+    "News Commentary",
+    "Philosophy"
+  ],
+  "ITUNES_IMAGE": "lesbertarian-2000.jpg",
+  "ITUNES_EXPLICIT": false
+}
